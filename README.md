@@ -14,12 +14,12 @@ Berikut adalah fitur aplikasi ini:
 
 Berikut adalah demo dari aplikasi ini:
 
-![assets](assets/1.png) <br>
+![foto1](foto/1.png)
 
-![assets](assets/2.png)
+![foto2](assets/2.png)
 <br>
-![assets](assets/3.png)
+![foto3](assets/3.png)
 <br>
-![assets](assets/4.png)
+![foto4](assets/4.png)
 <br>
-![assets](assets/5.png)
+![foto5](assets/5.png)
