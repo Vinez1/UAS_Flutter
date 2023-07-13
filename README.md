@@ -16,10 +16,10 @@ Berikut adalah demo dari aplikasi ini:
 
 ![foto1](foto/1.png)
 
-![foto2](assets/2.png)
+![foto2](foto/2.png)
 <br>
-![foto3](assets/3.png)
+![foto3](foto/3.png)
 <br>
-![foto4](assets/4.png)
+![foto4](foto/4.png)
 <br>
-![foto5](assets/5.png)
+![foto5](foto/5.png)
