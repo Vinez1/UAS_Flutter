@@ -1,16 +1,25 @@
-# info_bmkg
+# Info BMKG
 
-A new Flutter project.
+Aplikasi untuk menampilkan informasi mengenai cuaca dan gempa yang berasal dari website [Data Terbuka BMKG](https://data.bmkg.go.id/). Aplikasi ini dibuat dengan menggunakan Flutter.
 
-## Getting Started
+API cuaca yang digunakan berasal dari [Cuaca Gempa REST API](https://github.com/renomureza/cuaca-gempa-rest-api) karena sudah dalam bentuk JSON.
 
-This project is a starting point for a Flutter application.
+## Fitur
 
-A few resources to get you started if this is your first Flutter project:
+Berikut adalah fitur aplikasi ini:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Menampilkan informasi cuaca suatu provinsi atau kota di Indonesia.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Demo
+
+Berikut adalah demo dari aplikasi ini:
+
+![assets](assets/1.png) <br>
+
+![assets](assets/2.png)
+<br>
+![assets](assets/3.png)
+<br>
+![assets](assets/4.png)
+<br>
+![assets](assets/5.png)
